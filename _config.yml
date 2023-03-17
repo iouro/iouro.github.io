@@ -1,10 +1,10 @@
 # Site settings
-title: iOURO
-SEOTitle: iOURO | 主页
+title: YIZX
+SEOTitle: 弈知新
 header-img: img/post-bg-desk.jpg
 email: ouroooo@163.com
 description: "iOURO."
-keyword: "Yzx, Yzx Blog, 知新博客, iOURO, 弈知新, iOS, Apple, iPhone"
+keyword: "Yzx, Yzx Blog, 知新博客, izx, 弈知新, iOS, Apple, iPhone"
 url: "https://iouro.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/iouro/iouro.github.io.git" # you code repository
@@ -83,11 +83,11 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "iOURO丨首页",
+        title: "弈知新丨首页",
         href: "https://ouroooo.github.io"
     },{
-        title: "知新论坛",
-        href: "http://iouro.free.mbbs.cc"
+        title: "./",
+        href: "./"
     },{
         title: "Apple",
         href: "https://apple.com"
